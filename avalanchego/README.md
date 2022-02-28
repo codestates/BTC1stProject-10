@@ -1,12 +1,8 @@
-<div align="center">
-  <img src="resources/AvalancheLogoRed.png?raw=true">
-</div>
 
----
 
 ## 환경준비 
 
-- [Go](https://golang.org/doc/install) version >= 1.16.8
+- [Go](https://golang.org/doc/install) version >= 1.17
 - [gcc](https://gcc.gnu.org/)
 - g++
 
